@@ -21,8 +21,8 @@ A modern implementation of the classic Snake game using Python's Turtle graphics
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/EfekanSalman/SnakeGame.git](https://github.com/EfekanSalman/SnakeGame/)
-cd python-snake-game
+git clone [https://github.com/EfekanSalman/SnakeGame.git]
+cd SnakeGame
 ```
 
 ### Requirements
